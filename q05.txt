@@ -1,0 +1,6 @@
+Ligo o primeiro interruptor e espere.
+Desligo o primeiro e ligue o segundo.
+Vou até as lâmpadas:
+Lâmpada acesa = segundo interruptor.
+Lâmpada apagada e quente = primeiro interruptor.
+Lâmpada apagada e fria = terceiro interruptor.
